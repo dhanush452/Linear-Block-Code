@@ -1,7 +1,4 @@
 # Linear-Block-Code
-## AADHITHYA SV
-## 212223060001
-## Aim
 The aim of linear block coding is to detect and correct errors during digital data transmission by adding redundant bits to the original data in a structured way, using linear algebra over binary fields.
 ## Apparatus Required 
 Python: A versatile programming language used for scientific computing and signal processing. NumPy: A powerful numerical library in Python for performing array-based operations and mathematical computations. Matplotlib: A plotting library for generating high-quality graphs and visualizations of data, essentialfor demonstrating the sampling process.
