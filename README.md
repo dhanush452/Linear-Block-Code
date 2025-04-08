@@ -1,6 +1,5 @@
 # Linear-Block-Code
-## AADHITHYA SV
-## 212223060001
+
 ## Aim
 The aim of linear block coding is to detect and correct errors during digital data transmission by adding redundant bits to the original data in a structured way, using linear algebra over binary fields.
 ## Apparatus Required 
